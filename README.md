@@ -1,4 +1,4 @@
-# day2
+#学习vue中，创建vue综合范例
 
 ## Project setup
 ```
